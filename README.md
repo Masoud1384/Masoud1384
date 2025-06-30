@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning asp.net<br>🎯 Goals: Backend-Developer<br>🎲 Fun fact: I can't stand coffe...<br>❤️Hobby? learning new things.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently working with asp.net<br>🎲 Fun fact: I can't stand coffe...<br>❤️Hobby? learning new things.</p>
 
 ###
 
